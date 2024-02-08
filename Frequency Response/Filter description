@@ -1,0 +1,4 @@
+Three Filters are used that is High Pass filter, Low Pass filter and Band Stop Filter
+High Pass Filter have cut off Frequency of 1 Hz which removes the Small distortions.
+Low pass Filter have cut off frequency of 100 Hz which removes the extra frequencies to come into the graph.
+Notch or Bandstop Filter having cut off frequency 50 Hz which removes the distortion of Electricity.
